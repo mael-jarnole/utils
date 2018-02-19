@@ -1,8 +1,8 @@
 {
   "compilerOptions": {
-    "outDir": "/dist",
+    "outDir": "dist",
     "baseUrl": "/",
-    "module": "esnext",
+    "module": "CommonJS",
     "target": "es5",
     "lib": [
       "es6",
